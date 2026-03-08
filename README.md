@@ -18,4 +18,4 @@ The appropriate waste collector in the chain should handle the disposal based on
 
 
 ## UML Class Diagram
-![Image]()
+![Image](https://github.com/eunicemabasa/Mabasa_ChainOfResponsibility_LabAss3/blob/main/ChainOfResponsibility.png)
